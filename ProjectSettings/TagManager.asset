@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gem
+  - Cherry
+  - Ladder
+  - Star
+  - DisplayWorldLevel
+  - StartOfLevelUI
+  - Floor
+  - SmallSpikes
+  - KillZone
+  - Spikes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Floor
+  - Ladder
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4185393931
+    locked: 0
+  - name: Middleground
+    uniqueID: 1949376193
+    locked: 0
+  - name: Foreground
+    uniqueID: 3617860595
+    locked: 0
+  - name: MostFront
+    uniqueID: 409114029
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4174782095
+    locked: 0
+  - name: BlackFade
+    uniqueID: 3984636467
+    locked: 0
+  - name: EndOfLevel
+    uniqueID: 96220367
+    locked: 0
+  - name: UI
+    uniqueID: 133905213
+    locked: 0
