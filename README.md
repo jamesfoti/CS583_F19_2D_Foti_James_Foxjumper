@@ -10,4 +10,4 @@
 **Pause:** "p" or "ESC" <br/>
 
 ## Sources
-See the **game design document (GDD)** for listed sources and citations! The document is located [here](https://github.com/jamesfoti/CS583_F19_2D_Foti_James_Foxjumper/blob/master/Assets/Documentation/Foxjumper_GDD.pdf)
+See the **game design document (GDD)** for listed sources and citations! The document is located [here](https://github.com/jamesfoti/CS583_F19_2D_Foti_James_Foxjumper/blob/master/Assets/Documentation/Foxjumper_GDD.pdf).
