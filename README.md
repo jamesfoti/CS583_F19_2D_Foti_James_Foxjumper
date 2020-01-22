@@ -3,7 +3,6 @@
 **GAME CAN BE PLAYED HERE:** https://simmer.io/@jamesfoti/foxjumper <br/>
 or https://jamesfoti.github.io/CS583_F19_2D_Foti_James_Foxjumper/
 
-!! Game Design Document is located in Assets/Documents !!
 
 ## GAME CONTROLS
 **Run:** "Left Arrow" or "s" (Run Left) and "Right" or "d" (Run Right) <br/>
