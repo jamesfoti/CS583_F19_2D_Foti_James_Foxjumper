@@ -1,12 +1,14 @@
-!! GAME CAN BE PLAYED HERE AS WELL --> https://simmer.io/@jamesfoti/foxjumper !!
+# CS 583 (3D Game Programming) - 2D Game
+
+**GAME CAN BE PLAYED HERE:** https://simmer.io/@jamesfoti/foxjumper <br/>
+or https://jamesfoti.github.io/CS583_F19_2D_Foti_James_Foxjumper/
 
 !! Game Design Document is located in Assets/Documents !!
 
-GAME CONTROLS
-Run: "Left"/"s" (Run Left) and "Right"/"d" (Run Right)
-Jump: "space"
-Pause: "p" or "ESC"
-Climb: "Up" or "w", "Down" or "s", or Jump near ladder (No ladders are included in the game because I had issues with the code).
+## GAME CONTROLS
+**Run:** "Left Arrow" or "s" (Run Left) and "Right" or "d" (Run Right) <br/>
+**Jump:** "Space" <br/>
+**Pause:** "p" or "ESC" <br/>
 
 CITATIONS
 Assets from the Unity Asset Store:
@@ -44,4 +46,4 @@ NOTE_3: The artwork that I had created for this game is included in the "MyArt" 
 
 NOTE_4: Game can be played on simmer.io using this link: https://simmer.io/@jamesfoti/foxjumper
 
-NOTE_5: There is a minor bug with the character jumping that causes a sharp increase in the jump velocity. This happens once in a while. 
+NOTE_5: There is a minor bug with the character jumping that causes a sharp increase in the jump velocity. This happens once in a while.
