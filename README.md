@@ -1,7 +1,7 @@
 # CS 583 (3D Game Programming) - 2D Game
 
 **Game can be played here:** https://simmer.io/@jamesfoti/foxjumper <br/>
-**or here:** https://jamesfoti.github.io/CS583_F19_2D_Foti_James_Foxjumper/
+**or here:** https://jamesfoti.github.io/FoxJumper2dVideoGame/
 
 
 ## Game Controls
