@@ -1,4 +1,4 @@
-# CS 583 (3D Game Programming) - 2D Game
+# Fox Jumper - 2D Game Built w/ Unity and C#
 
 **Game can be played here:** https://simmer.io/@jamesfoti/foxjumper <br/>
 **or here:** https://jamesfoti.github.io/FoxJumper2dVideoGame/
